@@ -1,5 +1,9 @@
 ## Product Card (Wildberries-style)
 
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://mistyowl.github.io/wb-card/)
+[![License](https://img.shields.io/github/license/Mistyowl/wb-card)](LICENSE)
+![Tech: HTML5 & CSS3](https://img.shields.io/badge/tech-HTML5%20%26%20CSS3-orange)
+
 A small, pixel-perfect product card layout inspired by marketplace product cards (similar to Wildberries).  
 The markup and styling repeat the original Figma design as closely as possible, including sizes, spacing and typography.
 
