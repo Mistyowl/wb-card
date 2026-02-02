@@ -5,6 +5,8 @@ The markup and styling repeat the original Figma design as closely as possible, 
 
 Figma design: [Design Marketplace Card](https://www.figma.com/design/iWr3tTO5cuhMi5W0CMgi3l/Design-Marketplace-Card?node-id=0-1&t=3LVxyA8YvxrGpv7l-1)
 
+![Product card preview](img/thumbnail.png)
+
 ### Features
 
 - **Pixel-perfect layout**: card dimensions and spacing match the Figma design.
